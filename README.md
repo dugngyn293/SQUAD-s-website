@@ -1,2 +1,2 @@
-# fitness-club
-It's an demo template for fitness club website. Design copyright Colorlib
+# SQUAD's website
+It's an demo template for SQUAD club website. Design copyright Colorlib
